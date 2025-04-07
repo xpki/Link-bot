@@ -1,7 +1,5 @@
 # LinkGet Bot 🔗⏳  
-*A Discord bot that sends random links via DM with cooldowns*  
-
-![Bot Banner](https://i.imgur.com/placeholder.png) *(optional: add a banner image here)*  
+*A Discord bot that sends random links via DM with cooldowns*
 
 ## Features ✨  
 - **Random Link Delivery**: Fetches and sends random links from a Pastebin/URL.  
