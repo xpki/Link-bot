@@ -61,4 +61,4 @@ async def linkget(interaction: nextcord.Interaction):
 
 # Run the bot with the token
 if __name__ == '__main__':
-    bot.run('MTM1NTk1NTE1MjgwODMxNzA1OQ.GBdS0M.aeOVyibjFe25IoaxcOvXFDiYqSc6znNiOHNvk0')
+    bot.run('PUT YOUR TOKEN HERE')
